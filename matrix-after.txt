@@ -1,0 +1,13 @@
+profile-closed-ios-light-after Portrait
+profile-open-ios-light-after Landscape Left
+profile-tabs-ios-light-after Landscape Left
+profile-partial-ios-light-after Landscape Left
+profile-portrait-ios-light-after Portrait Upside Down
+profile-closed-after-ios-light-after Portrait
+profile-closed-ios-dark-after Portrait
+profile-open-ios-dark-after Landscape Left
+profile-tabs-ios-dark-after Landscape Left
+profile-partial-ios-dark-after Landscape Left
+profile-portrait-ios-dark-after Portrait Upside Down
+profile-closed-after-ios-dark-after Portrait
+APP_ALIVE
